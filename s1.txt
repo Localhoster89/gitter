@@ -1,0 +1,2 @@
+hello here i will be noticing that after creating a new file , git pretends like he doesn't knows this file
+and says it an untracked file.
